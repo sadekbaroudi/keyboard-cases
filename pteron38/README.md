@@ -1,5 +1,7 @@
 # 3D printable case designs for pteron38
 
+Original repo is [here](https://github.com/sadekbaroudi/pteron-keyboard/)
+
 You can use a couple of different combinations to build this case.
 
 Either use:

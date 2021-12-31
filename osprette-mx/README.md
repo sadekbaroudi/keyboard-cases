@@ -1,3 +1,5 @@
+Case for the [Osprette MX](https://github.com/smores56/osprette-mx)
+
 # Parts for case
 
 * printed case

@@ -1,3 +1,5 @@
+Case for the [Free Willy](https://www.squashkb.com/product/free-willy)
+
 # Instructions
 
 Note: Typically the free willy only supports pcb mounted switches. With this plate, you can use plate mounted switches, since the plate will align the switches for you to solder.

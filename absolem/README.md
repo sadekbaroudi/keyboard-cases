@@ -1,6 +1,6 @@
 # Absolem case
 
-Just a simple case for the Absolem. Note that this is MX only.
+Just a simple case for the [Absolem](https://github.com/mrzealot/absolem). Note that this is MX only.
 
 ![pic5](images/5.jpg)
 
