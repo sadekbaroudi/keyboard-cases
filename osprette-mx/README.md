@@ -10,7 +10,13 @@ Case for the [Osprette MX](https://github.com/smores56/osprette-mx)
 
 # Instructions
 
-There are two ways to use this, with and without the plate.
+There are two cases:
+* (pictured) switchplate with a bottom body
+* (not pictured) switchplate body with a bottom plate
+
+Both of these cases use the same components and are assembled pretty much the same way.
+
+With the switchplate version, you can opt to not include the switchplate itself and just use the body. If you choose to do this, you'll see "plate only" instructions that you can ignore.
 
 * solder everything onto the pcb except the switches
 * (plate only) print the plate and case
