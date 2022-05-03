@@ -35,9 +35,9 @@ Just a simple case for the [Absolem](https://github.com/mrzealot/absolem). Note 
 This is a case that allows you to mount the pcb directly without a plate
 
 ### BOM
-* 12 M3 heat set inserts, 4mm length for the 9mm case, and no more than 3mm in length for the 6mm case
-* 12 M3 wafer head screws, 4mm length for the 9mm case or 6mm case. Screw head should be 5mm in diameter
-* 12 M3 rubber or nylon washers, should be 5mm-6mm in diameter
+* 12 M3 heat set inserts, 4mm length
+* 12 M3 wafer head screws, 3-4mm length, 4 preferred. Screw head should be 5mm in diameter. Note that a 5mm screw head may interfere with the switch housing, but the absolem holes are 4.5mm. You will need to get a bit creative while screwing them in.
+* (optional) 12 M3 rubber or nylon washers, should be 5mm in diameter
 * Printed case
 * Absolem pcb and all the parts required for it (diodes, switches, etc)
 
